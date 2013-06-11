@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="baner.png">images/baner.png</file>
+        <file alias="off">images/ico2.png</file>
+        <file alias="on">images/ico1.png</file>
+    </qresource>
+</RCC>
